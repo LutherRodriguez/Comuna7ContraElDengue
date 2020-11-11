@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+  font-size: 20px;
+  color: #212529;
+  font-family: 'Lora', 'Times New Roman', serif;
+}
+#separadores {
+    height: 15px;
+    background-color: rgba(249, 252, 251, 0.26);
+    box-shadow: rgba(3, 74, 92, 0.801) 0px 1px 10px 1px;
+}
+
+#tarjeta_publicacion {
+    background-color:rgba(9, 235, 243, 0.061)
+}
+
+#titulos {
+    height: 3rem;
+    font-family: 'Open Sans','Helvetica Neue','Helvetica', 'Arial', 'sans-serif';
+    text-shadow: rgba(23, 24, 24, 0.672) 0px 1px 5px;
+}
